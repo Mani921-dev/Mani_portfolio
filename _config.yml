@@ -1,0 +1,6 @@
+remote_theme: pages-themes/time-machine@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+title: [Manikanta Saripalli | Data Analyst]
+description: [Emerging Data Analyst skilled in Python, SQL, Power BI, and Excel. Passionate about transforming data into actionable insights through analytics, visualization, and dashboard development.]
+
