@@ -23,66 +23,47 @@ Data Science Intern – Glossary Softech Solutions
 Duration: 6 Months
 
 Performed data cleaning, preprocessing, and exploratory data analysis.
-
 Worked with datasets to identify trends and generate insights.
-
 Applied Python-based analytical techniques for business problem-solving.
-
 Assisted in creating reports and visualizations for decision-making.
 
 _________
 PROJECTS
 
-IPL Match Analysis & Win Prediction
+1.IPL Match Analysis & Win Prediction
 --------------------------------
 
 Analyzed historical IPL datasets using Python.
-
 Built predictive models to forecast match outcomes.
-
 Generated insights on team performance and match trends.
 
 
-Netflix Analytics Dashboard (Power BI)
+2.Netflix Analytics Dashboard (Power BI)
 -----------------------------------
 Developed interactive dashboards for content analysis.
-
 Visualized genre popularity, content distribution, and trends.
-
 Enabled data-driven insights through dynamic reporting.
 
 
-Instagram Analytics Dashboard (Power BI)
+3.Instagram Analytics Dashboard (Power BI)
 -----------------------------------------
 Created dashboards to analyze engagement and audience metrics.
-
 Tracked user interaction patterns and performance indicators.
-
 Presented findings through intuitive visualizations.
 
 __________
 TECHNICAL SKILLS
 
 Python
-
 SQL
-
 Power BI
-
 Tableau
-
 Microsoft Excel
-
 Data Analysis
-
 Data Visualization
-
 Statistics
-
 Dashboard Development
-
 Data Cleaning
-
 Exploratory Data Analysis (EDA)
 
 ______
