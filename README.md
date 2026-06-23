@@ -69,8 +69,8 @@ Exploratory Data Analysis (EDA)
 ______
 CERTIFICATIONS
 
-Deloitte Data Analytics Job Simulation
-Oracle cloud Database Services 2025 Certified Professional 
+1.Deloitte Data Analytics Job Simulation
+2.Oracle cloud Database Services 2025 Certified Professional 
 ______
 ACHIEVEMENTS
 
