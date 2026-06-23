@@ -34,6 +34,7 @@ _________
 PROJECTS
 
 IPL Match Analysis & Win Prediction
+--------------------------------
 
 Analyzed historical IPL datasets using Python.
 
@@ -43,7 +44,7 @@ Generated insights on team performance and match trends.
 
 
 Netflix Analytics Dashboard (Power BI)
-
+-----------------------------------
 Developed interactive dashboards for content analysis.
 
 Visualized genre popularity, content distribution, and trends.
@@ -52,7 +53,7 @@ Enabled data-driven insights through dynamic reporting.
 
 
 Instagram Analytics Dashboard (Power BI)
-
+-----------------------------------------
 Created dashboards to analyze engagement and audience metrics.
 
 Tracked user interaction patterns and performance indicators.
